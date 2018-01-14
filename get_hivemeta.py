@@ -1,3 +1,10 @@
+#encoding utf8
+
+
+from pyhive import hive
+import sys
+import pandas as pd
+
 host = "localhost"
 port = 10000
 db = "sigma_impl"
